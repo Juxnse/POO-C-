@@ -1,0 +1,7 @@
+C:\Users\juans\source\repos\Estudio\Estudio\bin\Debug\Estudio.exe.config
+C:\Users\juans\source\repos\Estudio\Estudio\bin\Debug\Estudio.exe
+C:\Users\juans\source\repos\Estudio\Estudio\bin\Debug\Estudio.pdb
+C:\Users\juans\source\repos\Estudio\Estudio\obj\Debug\Estudio.csproj.AssemblyReference.cache
+C:\Users\juans\source\repos\Estudio\Estudio\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\repos\Estudio\Estudio\obj\Debug\Estudio.exe
+C:\Users\juans\source\repos\Estudio\Estudio\obj\Debug\Estudio.pdb
